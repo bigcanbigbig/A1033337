@@ -8,7 +8,7 @@
 			$myfile = fopen("string.txt", "r");
 		}
 		function spiltroad(){
-			
+			$myfile = fopen("road.txt", "r");
 		}
 	}
 ?>
